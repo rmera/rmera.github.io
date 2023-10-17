@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rmera.github.io/es/</loc>
+    <lastmod>2023-10-02T15:16:59-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rmera.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rmera.github.io/es/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rmera.github.io/es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -15,22 +32,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://rmera.github.io/es/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rmera.github.io/es/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rmera.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://rmera.github.io/es/"
                 />
   </url>
   
