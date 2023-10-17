@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rmera.github.io/swcc/</loc>
+    <loc>https://rmera.github.io/</loc>
     <lastmod>2023-10-02T15:16:59-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://rmera.github.io/swcc/es/"
+                href="https://rmera.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rmera.github.io/swcc/"
+                href="https://rmera.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://rmera.github.io/swcc/about/</loc>
+    <loc>https://rmera.github.io/about/</loc>
     <lastmod>2023-10-02T15:16:59-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://rmera.github.io/swcc/programme/</loc>
+    <loc>https://rmera.github.io/programme/</loc>
     <lastmod>2023-10-02T15:16:59-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://rmera.github.io/swcc/registration/</loc>
+    <loc>https://rmera.github.io/registration/</loc>
     <lastmod>2023-10-02T15:16:59-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://rmera.github.io/swcc/categories/</loc>
+    <loc>https://rmera.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://rmera.github.io/swcc/es/categories/"
+                href="https://rmera.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rmera.github.io/swcc/categories/"
+                href="https://rmera.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://rmera.github.io/swcc/tags/</loc>
+    <loc>https://rmera.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://rmera.github.io/swcc/es/tags/"
+                href="https://rmera.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rmera.github.io/swcc/tags/"
+                href="https://rmera.github.io/tags/"
                 />
   </url>
   
