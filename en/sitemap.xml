@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/</loc>
+    <loc>https://rmera.github.io/</loc>
     <lastmod>2023-10-02T15:16:59-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/"
+                href="https://rmera.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/"
+                href="https://rmera.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/about/</loc>
+    <loc>https://rmera.github.io/about/</loc>
     <lastmod>2023-10-02T15:16:59-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/programme/</loc>
+    <loc>https://rmera.github.io/programme/</loc>
     <lastmod>2023-10-02T15:16:59-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/registration/</loc>
+    <loc>https://rmera.github.io/registration/</loc>
     <lastmod>2023-10-02T15:16:59-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/categories/</loc>
+    <loc>https://rmera.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/categories/"
+                href="https://rmera.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/categories/"
+                href="https://rmera.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/tags/</loc>
+    <loc>https://rmera.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/tags/"
+                href="https://rmera.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/tags/"
+                href="https://rmera.github.io/tags/"
                 />
   </url>
   

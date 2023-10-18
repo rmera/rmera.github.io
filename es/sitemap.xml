@@ -3,50 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/categories/</loc>
+    <loc>https://rmera.github.io/es/</loc>
+    <lastmod>2023-10-02T15:16:59-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/categories/"
+                href="https://rmera.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/categories/"
+                href="https://rmera.github.io/es/"
                 />
   </url>
   
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/</loc>
+    <loc>https://rmera.github.io/es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/"
+                href="https://rmera.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/"
+                href="https://rmera.github.io/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/tags/</loc>
+    <loc>https://rmera.github.io/es/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/tags/"
+                href="https://rmera.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/tags/"
+                href="https://rmera.github.io/es/tags/"
                 />
   </url>
   
