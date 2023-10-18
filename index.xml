@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I SWCC - 17-19th Jan. 2024, Arica, Chile on swcc</title>
-    <link>https://rmera.github.io/</link>
+    <link>https://gohugo-theme-ananke.pages.dev/</link>
     <description>Recent content in I SWCC - 17-19th Jan. 2024, Arica, Chile on swcc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Oct 2023 15:16:59 -0300</lastBuildDate>
     
-	<atom:link href="https://rmera.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I SWCC - 17-19th Jan. 2024, Arica, Chile</title>
-      <link>https://rmera.github.io/about/</link>
+      <link>https://gohugo-theme-ananke.pages.dev/about/</link>
       <pubDate>Mon, 02 Oct 2023 15:16:59 -0300</pubDate>
       
-      <guid>https://rmera.github.io/about/</guid>
-      <description>About the I SWCC  Date: 17-19 Jan. 2023 Place: Auditorio Facultad de Ciencias, Campus Velasquez (Gral. Velasquez 1775), Universidad de Tarapaca, Arica, Chile. Language: English (applies to posters and talks/lectures, the opening and closing words could be given in Spanish). Talks: 10 min. + 5 min of questions (any topic in Computational Chemistry). Plenary lectures: 45 min + 15 min questions (coarse-grained MD). Grants available for students.  We aim for the Workshop to be strongly science-focused and inter-disciplinary.</description>
+      <guid>https://gohugo-theme-ananke.pages.dev/about/</guid>
+      <description>About the I SWCC  Date: 17-19 Jan. 2023 Place: Auditorio Facultad de Ciencias, Campus Velasquez (Gral. Velasquez 1775), Universidad de Tarapaca, Arica, Chile. Language: English (applies to posters and talks/lectures, the opening and closing words could be given in Spanish). Talks: 10 min. + 5 min of questions. Plenary lectures: 45 min + 15 min questions. Grants available for students.  We aim for the Workshop to be strongly science-focused and inter-disciplinary.</description>
     </item>
     
     <item>
       <title>I SWCC - 17-19th Jan. 2024, Arica, Chile</title>
-      <link>https://rmera.github.io/programme/</link>
+      <link>https://gohugo-theme-ananke.pages.dev/programme/</link>
       <pubDate>Mon, 02 Oct 2023 15:16:59 -0300</pubDate>
       
-      <guid>https://rmera.github.io/programme/</guid>
+      <guid>https://gohugo-theme-ananke.pages.dev/programme/</guid>
       <description>Workshop programme First day, Wed. 17   10:00 - 10:15 Opening words: Raul Mera A.
-  10:15 - 11:15 Plenary lecture: Siewert-Jan Marrink
+  10:15 - 11:15 plenary lecture: Siewert-Jan Marrink
   11:15 - 11:35 Coffee break
   11:35 - 13:00 Talks. Chair: Carolina Mascayano C.
   13:00 - 15:00 Lunch
@@ -38,13 +38,13 @@
     
     <item>
       <title>I SWCC - 17-19th Jan. 2024, Arica, Chile</title>
-      <link>https://rmera.github.io/registration/</link>
+      <link>https://gohugo-theme-ananke.pages.dev/registration/</link>
       <pubDate>Mon, 02 Oct 2023 15:16:59 -0300</pubDate>
       
-      <guid>https://rmera.github.io/registration/</guid>
+      <guid>https://gohugo-theme-ananke.pages.dev/registration/</guid>
       <description>Registration The registration to the I SWCC is free of charge, though but stay/food costs (other than coffee breaks) are not included. Grants are available to fund student&amp;rsquo;s attendance.
 Please note that, although this year the plenary lectures have a focus on coarse-grained MD simulations, the regular talks and posters are open to all topics in Computational Chemistry
-To register, send an email to register@swcc.cl
+To register, send an email to swcc.registration@algo.uta.cl
 In the email, please include the following information:</description>
     </item>
     
